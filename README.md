@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Nirvisha!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=CS+Grad+Student+%F0%9F%8E%93+%7C+Software+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Perfecting+the+art+of+code-to-caffeine+conversion+%E2%98%95%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=CS+Grad+Student+%F0%9F%8E%93+%7C+Software+Engineer;Building+intelligent+systems+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 *Currently on a quest to build smart, scalable systems at the intersection of backend engineering and AI*
 
@@ -66,8 +66,8 @@ const nirvisha = {
 ## 📊 GitHub Chronicles
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirvisha82&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=📈 My Coding Journey"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvisha82&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=🔥 Languages I Love"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirvisha82&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvisha82&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -167,7 +167,7 @@ const nirvisha = {
 
 ### 💫 "The best stories are written one commit at a time"
 
-![Visitors](https://visitcount.itsvg.in/api?id=Nirvisha82&label=Story%20Readers&color=6&icon=2&pretty=true)
+![Profile Views](https://profile-counter.glitch.me/Nirvisha82/count.svg)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirvisha82&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution Graph"/>
