@@ -71,8 +71,6 @@ To see what I'm working on, check out my [Website](#) or scroll through some of 
 
 ---
 
-## 🌟 My Philosophy What I'm Up To
-
 ## 🌟 My Philosophy
 
 > **"Clean code isn't just about syntax—it's about creating systems that inspire, scale, and stand the test of time. Every line of code is a story, every API is a conversation, and every bug is a lesson in disguise."**
