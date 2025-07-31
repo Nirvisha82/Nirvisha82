@@ -10,15 +10,13 @@
 
 ---
 
-## 🚀 My Journey So Far
+## 🚀 About Me
 
 I'm a passionate developer who loves building systems where **backend engineering meets artificial intelligence**. My experience spans designing scalable APIs, experimenting with LLMs, and creating full-stack applications that actually solve real problems.
 
 🎓 I'm currently pursuing my Master's in Computer Science at the University of Florida, focusing on **AI systems**, **cloud architecture**, and **data-driven applications**.
 
-Over the years, I've worked across domains—from automation pipelines and ML workflows to large-scale retrieval systems. I especially enjoy tinkering with LLMs, optimizing distributed pipelines, and turning prototypes into polished products.
-
-My work is guided by one goal: **to build smart, reliable, and impactful software**—whether that's an AI-powered assistant or a clean backend for a complex product.
+Over the years, I've worked across domains, from automation pipelines and ML workflows to large-scale retrieval systems. I especially enjoy tinkering with LLMs, optimizing distributed pipelines, and turning prototypes into polished products.
 
 ```typescript
 const nirvisha = {
@@ -80,11 +78,9 @@ To see what I'm working on, check out my [Website](#) or scroll through some of 
 
 ---
 
-## 🎯 Current Chapter: What I'm Up To
-
 ## 🌟 My Philosophy
 
-> **"Clean code isn't just about syntax—it's about creating systems that inspire, scale, and stand the test of time. Every line of code is a story, every API is a conversation, and every bug is a lesson in disguise."**
+> **"Clean code isn't just about syntax, it's about creating systems that inspire, scale, and stand the test of time. Every line of code is a story, every API is a conversation, and every bug is a lesson in disguise."**
 
 <div align="center">
 
