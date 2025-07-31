@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Nirvisha!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=CS+Grad+Student+%F0%9F%8E%93+%7C+Backend+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Coffee+%E2%86%92+Code+Converter+%E2%98%95%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=CS+Grad+Student+%F0%9F%8E%93+%7C+Software+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Perfecting+the+art+of+code-to-caffeine+conversion+%E2%98%95%E2%9C%A8)](https://git.io/typing-svg)
 
 *Currently on a quest to build smart, scalable systems at the intersection of backend engineering and AI*
 
@@ -17,7 +17,7 @@
 ```typescript
 const nirvisha = {
   location: "University of Florida 🐊",
-  role: "CS Graduate Student & Backend Engineer",
+  role: "CS Graduate Student & Software Engineer",
   currentFocus: [
     "Large Language Model architectures",
     "Clean API design patterns", 
@@ -70,10 +70,6 @@ const nirvisha = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvisha82&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=🔥 Languages I Love"/>
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nirvisha82&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
-</div>
-
 ---
 
 ## 🎯 Current Chapter: What I'm Up To
@@ -117,30 +113,38 @@ const nirvisha = {
 
 ---
 
-## 🎵 Fun Facts & Personality
+## 🎨 When I'm Not Coding
 
+<div align="center">
+
+```
+🌸 Life Beyond the Terminal 🌸
+```
+
+</div>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
-
-### 🎯 **When I'm Not Coding**
-- 📸 Capturing moments on Instagram
-- 🌱 Learning something completely new
-- 🎮 Probably still thinking about code
-- ☕ Searching for the perfect coffee shop
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📸-Photography-ff69b4?style=for-the-badge&logoColor=white" />
+<br><sub><b>Capturing moments<br>on Instagram</b></sub>
 </td>
-<td width="50%">
-
-### 💭 **Random Dev Thoughts**
-- *"Documentation is love letters to your future self"*
-- *"The best debugger is a good night's sleep"*  
-- *"Coffee is just a dependency injection for humans"*
-- *"Every error message is a haiku waiting to happen"*
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌱-Learning-32cd32?style=for-the-badge&logoColor=white" />
+<br><sub><b>Always discovering<br>something new</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🧠-Thinking-9370db?style=for-the-badge&logoColor=white" />
+<br><sub><b>Probably still<br>thinking about code</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☕-Coffee_Hunt-8b4513?style=for-the-badge&logoColor=white" />
+<br><sub><b>Searching for the<br>perfect coffee shop</b></sub>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
