@@ -2,12 +2,7 @@
 
 # 👋 Hey, I'm Nirvisha!
 
-<div align="center">
-
-CS Grad Student 🎓 | Software Engineer  
-Building intelligent systems 🤖
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&repeat=false&lines=CS+Grad+Student+%F0%9F%8E%93+%7C+Software+Engineer;Building+intelligent+systems+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 *Currently on a quest to build smart, scalable systems at the intersection of backend engineering and AI*
 
@@ -24,6 +19,20 @@ I'm a passionate developer who loves building systems where **backend engineerin
 Over the years, I've worked across domains—from automation pipelines and ML workflows to large-scale retrieval systems. I especially enjoy tinkering with LLMs, optimizing distributed pipelines, and turning prototypes into polished products.
 
 My work is guided by one goal: **to build smart, reliable, and impactful software**—whether that's an AI-powered assistant or a clean backend for a complex product.
+
+```typescript
+const nirvisha = {
+  location: "University of Florida 🐊",
+  role: "CS Graduate Student & Software Engineer",
+  currentFocus: [
+    "Large Language Model architectures",
+    "Clean API design patterns", 
+    "Scalable system architecture"
+  ],
+  superpower: "Perfecting the art of code-to-caffeine conversion ☕→💻",
+  motto: "Building cool things with even cooler people"
+};
+```
 
 To see what I'm working on, check out my [Website](#) or scroll through some of my recent projects below.
 
@@ -70,6 +79,8 @@ To see what I'm working on, check out my [Website](#) or scroll through some of 
 </div>
 
 ---
+
+## 🎯 Current Chapter: What I'm Up To
 
 ## 🌟 My Philosophy
 
