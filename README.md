@@ -1,163 +1,133 @@
 <div align="center">
 
-# ⚔️ Character Sheet: Nirvisha The Code Wizard ⚔️
+# 📖 The Chronicles of Nirvisha
+*A tale of code, coffee, and continuous learning*
 
-![Level](https://img.shields.io/badge/Level-Graduate_Student-gold?style=for-the-badge)
-![Class](https://img.shields.io/badge/Class-Backend_Engineer-blue?style=for-the-badge)
-![Specialization](https://img.shields.io/badge/Specialization-AI_Mage-purple?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Once+upon+a+time%2C+in+the+land+of+Gainesville...;A+CS+student+embarked+on+an+epic+journey...;Armed+with+coffee+and+curiosity...;She+set+out+to+build+the+future+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 📜 Character Background
+## 📜 Chapter I: The Origin Story
 
+> *In the hallowed halls of the University of Florida, where gators roam and dreams take flight, our protagonist discovered her calling at the magical intersection of backend engineering and artificial intelligence...*
+
+**🏰 Setting:** University of Florida 🐊  
+**🎭 Protagonist:** Nirvisha, CS Graduate Student  
+**⚡ Superpower:** Transforming caffeine into elegant code  
+**🎯 Quest:** Building intelligent, scalable systems that make the world a little bit better
+
+---
+
+## ⚔️ Chapter II: The Arsenal is Forged
+
+*Through countless late nights and debugging battles, she mastered the ancient arts...*
+
+### 🗡️ **The Language Mastery Arc**
 ```
-🏰 Origin: University of Florida (Gator Kingdom) 🐊
-🎯 Quest: Building smart, scalable systems where backend meets AI
-⚡ Special Ability: Transforms coffee into code at superhuman rates
-🌟 Alignment: Chaotic Good (loves clean architecture but breaks rules for innovation)
+🔥 Go → The blade of concurrent power
+⚡ C++ → The hammer of performance  
+🐍 Python → The staff of versatility
+📘 TypeScript → The shield of type safety
+✨ JavaScript → The wand of web magic
+```
+
+### 🏰 **The Framework Fellowship**
+```
+🏗️ NestJS → The architecture of dreams
+⚛️ React → The renderer of experiences  
+🚀 Next.js → The accelerator of development
+🌐 Node.js → The runtime of possibilities
+```
+
+### ☁️ **The Cloud Kingdom**
+```
+🌩️ AWS → The realm of infinite scale
+🌤️ GCP → The domain of machine learning
+🔥 Firebase → The sanctuary of real-time data
+⚡ Vercel → The fortress of deployment
+```
+
+### 🤖 **The AI Academy**
+```
+🔥 PyTorch → The forge of neural networks
+🧠 TensorFlow → The library of deep learning
+📊 scikit-learn → The toolkit of machine learning
+🐼 Pandas → The keeper of data wisdom
 ```
 
 ---
 
-## 📊 Character Stats
+## 📈 Chapter III: The Stats of Destiny
+
+*The chronicles are written in commits, measured in contributions, and told through code...*
 
 <div align="center">
-
-| 🧙‍♀️ **Attribute** | **Level** | **XP Bar** | **Bonus** |
-|:---:|:---:|:---:|:---:|
-| **Backend Engineering** | 85 | ████████▓░ | +15 |
-| **AI/ML Mastery** | 78 | ███████▓░░ | +12 |
-| **Frontend Crafting** | 72 | ███████▒░░ | +8 |
-| **Cloud Architecture** | 80 | ████████░░ | +10 |
-| **Problem Solving** | 92 | █████████▓ | +18 |
-| **Coffee Consumption** | 99 | ██████████ | +25 |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirvisha82&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&custom_title=📊 The Legend Grows" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvisha82&layout=compact&theme=vue&hide_border=true&custom_title=🏆 Languages of Power" />
 </div>
 
 ---
 
-## 🎒 Inventory & Equipment
+## 🌟 Chapter IV: The Current Adventures
 
-### ⚔️ **Primary Weapons**
+*Every hero needs active quests, challenges to overcome, and mountains to climb...*
+
+### 🎯 **Main Quest Line**
 ```yaml
-🗡️ Languages:
-  - Go Blade (legendary) ⭐⭐⭐⭐⭐
-  - C++ Crusher (epic) ⭐⭐⭐⭐
-  - Python Staff (legendary) ⭐⭐⭐⭐⭐
-  - TypeScript Wand (rare) ⭐⭐⭐
+🧙‍♀️ The LLM Mastery:
+  status: "in_progress"
+  description: "Delving deep into transformer architectures and fine-tuning techniques"
+  progress: 78%
   
-🛡️ Frameworks:
-  - NestJS Shield (epic) ⭐⭐⭐⭐
-  - React Armor (rare) ⭐⭐⭐
-  - Next.js Boots (uncommon) ⭐⭐
+🏗️ The Architecture Enlightenment:
+  status: "active"  
+  description: "Designing clean, scalable microservices that stand the test of time"
+  progress: 85%
+
+☕ The Coffee Optimization:
+  status: "permanent"
+  description: "Perfecting the art of code-to-caffeine conversion"
+  progress: 99.9%
 ```
-
-### 🧪 **Consumables**
-```yaml  
-☕ Coffee Potions: ∞ (unlimited supply)
-📚 Learning Scrolls: 50+ (constantly collecting)
-🧠 Knowledge Crystals: 25 (AI/ML focused)
-```
-
-### 🏺 **Special Items**
-```yaml
-💎 AWS Cloud Gem (provides infinite scaling)
-🔮 AI Orb (grants machine learning powers)  
-📡 API Compass (guides to clean architecture)
-🌟 Open Source Badge (unlocks collaboration abilities)
-```
-
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-![Achievement](https://img.shields.io/badge/🎓-Graduation_Master-gold)
-![Achievement](https://img.shields.io/badge/☕-Coffee_Connoisseur-brown)
-![Achievement](https://img.shields.io/badge/🤖-AI_Apprentice-purple)
-![Achievement](https://img.shields.io/badge/🏗️-Architecture_Architect-blue)
-![Achievement](https://img.shields.io/badge/🌙-Night_Coder-darkblue)
-
-</div>
-
----
-
-## 📈 Battle Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirvisha82&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&custom_title=⚔️ Combat Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvisha82&layout=compact&theme=dracula&hide_border=true&custom_title=🏹 Weapon Mastery"/>
-</div>
-
----
-
-## 🗺️ Current Quests
-
-### 🔥 **Main Quest Line**
-- [ ] 🧙‍♀️ Master Advanced LLM Architectures
-- [ ] 🏰 Build Scalable Microservices Empire  
-- [ ] 🌟 Contribute to 10 Open Source Projects
-- [ ] 📜 Complete CS Graduate Trials
 
 ### ⭐ **Side Quests**
-- [ ] 🎯 Deploy 5 AI-Powered Applications
-- [ ] 🛡️ Achieve AWS Solutions Architect Certification
-- [ ] 🗣️ Give Technical Talk at Conference
-- [ ] 📝 Write 20 Technical Blog Posts
+- 🌟 Contribute to 10 meaningful open source projects
+- 📚 Share knowledge through technical writing
+- 🎤 Speak at a major tech conference
+- 🤝 Mentor the next generation of developers
 
 ---
 
-## 🔮 Skill Tree Progress
+## 🔮 Chapter V: The Vision
 
+*What drives our hero forward? What future does she envision?*
+
+> **Mission Statement:** *"To bridge the gap between human creativity and machine intelligence, building systems that don't just solve today's problems, but anticipate tomorrow's opportunities."*
+
+### 🌅 **The Dream**
 ```
-                    🧙‍♀️ AI WIZARD PATH
-                           |
-        ┌─────────────────────────────────────┐
-        |                                     |
-   🤖 Machine Learning              🧠 Deep Learning
-        |                                     |
-   ├── PyTorch ████████░░                ├── Transformers ███████░░░
-   ├── TensorFlow ███████░░░            ├── LLMs ██████░░░░
-   └── Scikit-learn █████████░           └── Computer Vision ████░░░░░░
-
-                    ⚔️ BACKEND WARRIOR PATH
-                           |
-        ┌─────────────────────────────────────┐
-        |                                     |
-   🏗️ Architecture                    ☁️ Cloud Engineering
-        |                                     |
-   ├── Microservices ████████░░           ├── AWS ████████░░
-   ├── APIs ██████████                   ├── GCP ███████░░░
-   └── Databases █████████░               └── DevOps ██████░░░░
+🌍 Impact: Create technology that improves lives at scale
+🧠 Innovation: Push the boundaries of what's possible with AI
+🤝 Community: Foster collaboration in the open source ecosystem  
+📚 Knowledge: Share learnings and lift others up
 ```
 
 ---
 
-## 🌍 Guild Memberships & Alliances
+## 🗺️ Chapter VI: The Fellowship
+
+*No hero journeys alone. Connect with fellow adventurers...*
 
 <div align="center">
 
-[![University of Florida](https://img.shields.io/badge/🐊-University_of_Florida-orange?style=for-the-badge)](https://ufl.edu)
-[![Open Source](https://img.shields.io/badge/🌟-Open_Source_Community-green?style=for-the-badge)](https://github.com)
-[![AI/ML Guild](https://img.shields.io/badge/🤖-AI_ML_Guild-purple?style=for-the-badge)](#)
-
-</div>
-
----
-
-## 📞 Contact the Adventurer
-
-<div align="center">
-
-```
-🏰 Send a raven: nsoni@ufl.edu
-📸 Instagram scroll: @__nirvisha_
-💼 LinkedIn quest board: /in/nirvishasoni  
-🐦 Twitter messages: @nirvishaaa
-```
+| 🏰 **Guild** | 🔗 **Portal** | 📜 **Purpose** |
+|:---:|:---:|:---:|
+| Instagram | [@__nirvisha_](https://instagram.com/__nirvisha_) | *Life beyond code* |
+| LinkedIn | [nirvishasoni](https://linkedin.com/in/nirvishasoni) | *Professional quests* |
+| Twitter | [@nirvishaaa](https://x.com/nirvishaaa) | *Tech thoughts & musings* |
+| Email | [nsoni@ufl.edu](mailto:nsoni@ufl.edu) | *Direct communication* |
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__nirvisha_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirvishasoni)
@@ -168,12 +138,24 @@
 
 ---
 
+## 📖 Epilogue: To Be Continued...
+
+*The story is far from over. Each day brings new challenges, new learning opportunities, and new chances to make a difference. The chronicle continues with every commit, every line of code, and every cup of coffee.*
+
 <div align="center">
 
-## 💫 Legendary Quote
+```
+💫 "The best stories are written one commit at a time" 💫
+```
 
-*"In a world full of bugs, be the debugger who brings order to chaos"* ⚔️✨
+![Profile Views](https://visitcount.itsvg.in/api?id=Nirvisha82&label=Story%20Readers&color=6&icon=5&pretty=true)
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Nirvisha82&label=Adventurers%20Visited&color=6&icon=5&pretty=true)
+*⭐ Star this repository to bookmark the adventure ⭐*
 
+</div>
+
+---
+
+<div align="center">
+<sub>📚 End of Chapter • More adventures await in the repositories below 📚</sub>
 </div>
