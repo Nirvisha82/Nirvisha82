@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Nirvisha!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=CS+Grad+Student+%F0%9F%8E%93+%7C+Software+Engineer;Building+intelligent+systems+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&repeat=false&lines=CS+Grad+Student+%F0%9F%8E%93+%7C+Software+Engineer;Building+intelligent+systems+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 *Currently on a quest to build smart, scalable systems at the intersection of backend engineering and AI*
 
@@ -74,32 +74,6 @@ const nirvisha = {
 
 ## 🎯 Current Chapter: What I'm Up To
 
-### **🔬 Main Quests**
-```yaml
-🧠 LLM Research:
-  status: "Deep diving into transformer architectures"
-  progress: "78% complete"
-  next_milestone: "Fine-tuning custom models"
-
-🏗️ System Architecture:
-  status: "Designing scalable microservices"  
-  progress: "85% complete"
-  next_milestone: "Kubernetes deployment"
-
-☕ Coffee Optimization:
-  status: "Perfecting the art of code-to-caffeine conversion"
-  progress: "99.9% complete (always room for improvement)"
-  next_milestone: "Discover the perfect brewing temperature"
-```
-
-### **⭐ Side Missions**
-- 🌟 Contributing to open source projects that matter
-- 📚 Writing about clean architecture patterns
-- 🤝 Building connections in the AI/ML community
-- 🎯 Preparing for my next big technical challenge
-
----
-
 ## 🌟 My Philosophy
 
 > **"Clean code isn't just about syntax—it's about creating systems that inspire, scale, and stand the test of time. Every line of code is a story, every API is a conversation, and every bug is a lesson in disguise."**
@@ -131,16 +105,16 @@ const nirvisha = {
 <br><sub><b>Capturing moments<br>on Instagram</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌱-Learning-32cd32?style=for-the-badge&logoColor=white" />
-<br><sub><b>Always discovering<br>something new</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧠-Thinking-9370db?style=for-the-badge&logoColor=white" />
-<br><sub><b>Probably still<br>thinking about code</b></sub>
+<img src="https://img.shields.io/badge/🍳-Cooking-32cd32?style=for-the-badge&logoColor=white" />
+<br><sub><b>Experimenting with<br>new recipes</b></sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/☕-Coffee_Hunt-8b4513?style=for-the-badge&logoColor=white" />
 <br><sub><b>Searching for the<br>perfect coffee shop</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🧠-Thinking-9370db?style=for-the-badge&logoColor=white" />
+<br><sub><b>Probably still<br>thinking about code</b></sub>
 </td>
 </tr>
 </table>
@@ -164,14 +138,6 @@ const nirvisha = {
 ---
 
 <div align="center">
-
-### 💫 "The best stories are written one commit at a time"
-
-![Profile Views](https://profile-counter.glitch.me/Nirvisha82/count.svg)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirvisha82&theme=tokyo-night&hide_border=true&radius=16" alt="Contribution Graph"/>
-</div>
 
 *Thanks for stopping by my digital story! ⭐ Star some repos if you find something interesting*
 
