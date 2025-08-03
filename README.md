@@ -32,7 +32,7 @@ const nirvisha = {
 };
 ```
 
-To see what I'm working on, check out my [Website](#) or scroll through some of my recent projects below.
+To see what I'm working on, check out my [Website](https://nirvishasoni.vercel.app/) or scroll through some of my recent projects below.
 
 ---
 
