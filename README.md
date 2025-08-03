@@ -27,7 +27,7 @@ const nirvisha = {
     "Clean API design patterns", 
     "Scalable system architecture"
   ],
-  superpower: "Perfecting the art of code-to-caffeine conversion ☕→💻",
+  superpower: "Perfecting the art of caffeine-to-code conversion ☕→💻",
   motto: "Building cool things with even cooler people"
 };
 ```
